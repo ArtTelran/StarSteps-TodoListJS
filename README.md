@@ -1,2 +1,2 @@
 # StarSteps-TodoListJS
-Simple project for StartSteps cours
+Simple project for StartSteps course.
